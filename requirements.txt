@@ -1,2 +1,1 @@
-streamlit
-gTTS
+streamlit>=1.35
