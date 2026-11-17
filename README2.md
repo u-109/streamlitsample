@@ -6,9 +6,10 @@
 
 - **Group:** G2
 - **Members (roles):**
-  - [Name] — [Role]
-  - [Name] — [Role]
-  - [Name] — [Role]
+  - [Kang yujin] — [Leader]
+  - [Kim yujin] — [app design]
+  - [Choi junwi] — [writing readme file]
+  - [Lee yuchan] - [writing AI prompt]
 - **Project Repository:** https://github.com/u-109/streamlitsample
 
 ## 2. Target Learners
@@ -227,4 +228,4 @@ Overall, this project helped us understand how vocabulary data, learning activit
 
 ## 8. Streamlit App
 
-**Streamlit App Link:** [Add the deployed Streamlit URL.]
+**Streamlit App Link:** (https://byfidavzcja4ew6vebri8h.streamlit.app/)
